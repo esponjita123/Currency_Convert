@@ -22,6 +22,6 @@ El objetivo principal es implementar una solución práctica que aplique princip
 | Campo          | Descripción                   |
 |-----------------|-------------------------------|
 | **Asignatura**  | Construcción de Software      |
-| **NRC**         | 1597A                         |
+| **NRC**         | 15970                         |
 | **Docente**     | Daniel Gamarra Moreno         |
 | **Estudiante**  | Jheyson Paul Paytan Huamán    |
